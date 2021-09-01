@@ -1,0 +1,50 @@
+name: alhaji_user_app
+description: A new Flutter application.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dio: ^3.0.10
+  provider: ^4.3.3
+  firebase_core: ^0.5.3
+  firebase_auth: ^0.18.4+1
+  cupertino_icons: ^1.0.2
+  intl_phone_field: ^2.0.0
+  timer_button: ^1.0.2
+  flutter_svg: ^0.22.0
+  percent_indicator: ^3.0.1
+  sms_otp_auto_verify: ^1.2.2
+  stripe_payment: ^1.1.4
+  app_settings: ^4.1.0
+  http:
+  flutter_easyloading: ^3.0.3
+  flutter_credit_card: ^2.0.0
+  webview_flutter: ^2.0.12
+
+
+
+#  pull_to_refresh: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+  fonts:
+    - family: Nunito
+      fonts:
+        - asset: assets/fonts/Sofia Pro Regular Az.otf
+        - asset: assets/fonts/Sofia Pro Regular Italic Az.otf
+          style: italic
+        - asset: assets/fonts/Sofia Pro Bold Az.otf
+          weight: 500

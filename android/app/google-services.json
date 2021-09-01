@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "903852842404",
+    "project_id": "alhaji-suya",
+    "storage_bucket": "alhaji-suya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903852842404:android:5c734238e5302f4401b531",
+        "android_client_info": {
+          "package_name": "com.inceptionlabs.alhaji_registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903852842404-jso4nrmn492tkgpljk1i32bs75rsqi69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCehZGzaEjczQRF7_d6F549ivrrhe1iLTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903852842404-jso4nrmn492tkgpljk1i32bs75rsqi69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903852842404:android:cc7a9bdb86af09d601b531",
+        "android_client_info": {
+          "package_name": "com.inceptionlabs.alhaji_user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903852842404-fu1tp60arf7f8kijcbt0rc9b7ch9ue11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inceptionlabs.alhaji_user_app",
+            "certificate_hash": "6057713d3a8f7fba28c37495ab023001fe3d5bd6"
+          }
+        },
+        {
+          "client_id": "903852842404-jso4nrmn492tkgpljk1i32bs75rsqi69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCehZGzaEjczQRF7_d6F549ivrrhe1iLTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903852842404-jso4nrmn492tkgpljk1i32bs75rsqi69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
